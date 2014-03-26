@@ -1,3 +1,5 @@
+package main;
+
 public class Country
 {
     private int pop=0;
